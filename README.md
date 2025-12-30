@@ -14,7 +14,8 @@ Desarrollador Fullstack en formación con un enfoque apasionado por el **Fronten
 - **CMS:** WordPress, Elementor.
 - **Herramientas:** Git, GitHub, Terminal de Linux.
 
-## 📜 Certificaciones
+## 📜 Certificaciones 
+[https://github.com/asarsu/Certificados/tree/main]
 - ✅ Python Avanzado
 - ✅ Dominio de Linux y la Terminal
 - ✅ Git y GitHub profesional
