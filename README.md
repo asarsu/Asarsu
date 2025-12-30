@@ -75,12 +75,15 @@ I'm a passionate developer based in **Bolivia**, currently on an exciting journe
 <br />
 
 ## 🏆 Certifications & Education
-<a href="https://github.com/asarsu/Certificados/blob/main/certificado%20Python%20Avanzado.pdf">python</a>
 
 - 🎓 **Bootcamp Fullstack**: In progress (40% completed)
-- 📜 **Python Advanced**: Certified <a href="https://github.com/asarsu/Certificados/blob/main/certificado%20Python%20Avanzado.pdf" target="blank">pdf</a>
-- 📜 **Linux Administration**: Certified
-- 📜 **Git & GitHub**: Certified
+- 📜 **Python Advanced**: <a href="https://github.com/asarsu/Certificados/blob/main/certificado%20Python%20Avanzado.pdf" target="blank">Certified</a>
+- 📜 **SOLID Principles**: <a href="https://github.com/asarsu/Certificados/blob/main/certificado%20SOLID.pdf" target="blank">Certified</a>
+- 📜 **Linux Administration**: <a href="https://github.com/asarsu/Certificados/blob/main/certificado%20LINUX.pdf" target="blank">Certified</a>
+- 📜 **HTML**: <a href="https://github.com/asarsu/Certificados/blob/main/certificado%20HTML.pdf">Certified</a>
+- 📜 **CSS Expert**: <a href="https://github.com/asarsu/Certificados/blob/main/certificado-CSS-experto.pdf">Certified</a>
+- 📜 **Initial JavaScript**: <a href="https://github.com/asarsu/Certificados/blob/main/certificado%20Javascript%20inicial.pdf">Certified</a>
+
 
 <br />
 
