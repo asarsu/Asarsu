@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Andrés Sarmiento 👋
 
-<!--
-**asarsu/Asarsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Fullstack en formación con un enfoque apasionado por el **Frontend** y la **automatización con Python**. Desde octubre de 2024, me he dedicado intensamente a construir soluciones web modernas y escalables.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🎓 Actualmente cursando un Bootcamp Fullstack (40% completado).
+- 🛠️ Especialista en maquetación con **HTML, CSS, Sass** y herramientas como **Tailwind/Bootstrap**.
+- ⚙️ Experto en gestión de contenidos con **WordPress y Elementor**.
+- 🐍 Dominio avanzado de **Python** y manejo eficiente de entornos **Linux**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Python (Avanzado), JavaScript, HTML5, CSS3.
+- **Frontend:** Sass, Tailwind CSS, Bootstrap.
+- **CMS:** WordPress, Elementor.
+- **Herramientas:** Git, GitHub, Terminal de Linux.
+
+## 📜 Certificaciones
+- ✅ Python Avanzado
+- ✅ Dominio de Linux y la Terminal
+- ✅ Git y GitHub profesional
+- ✅ Desarrollo Web (HTML, CSS, Sass, JavaScript)
+- ✅ WordPress & Elementor
+
+## 📫 Contacto
+- **Email:** [asarmientosuarez@gmail.com]
